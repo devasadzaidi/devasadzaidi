@@ -1,47 +1,54 @@
 <h1 align="center">Hi 👋, I'm Asad Zaidi</h1>
-<h3 align="center">Project Manager | Technical Sales | Full-Stack Enthusiast</h3>
-
----
-
-🔹 Over **5+ years of experience** in managing full-cycle software projects  
-🔹 Expert in **Project Management**, **Client Communication**, and **Solution Selling**  
-🔹 Strong understanding of **Web & Mobile App Development** and trending tech stacks  
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Frontend:** React.js | React Native | Vue.js | Angular
-- **Backend:** Node.js | Express.js | Firebase | MongoDB
-- **Stacks:** MERN | MEAN | MEVN
-- **CMS/E-commerce:** WordPress | Shopify
-- **Project Tools:** Jira | Trello | ClickUp | Slack | GitHub
-
----
-
-### 🚀 What I Do
-
-✅ Build & manage scalable web and mobile applications  
-✅ Translate business ideas into tech products  
-✅ Bridge the gap between developers and clients  
-✅ Deliver projects using Agile & Scrum methodologies  
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">Project Manager | Upwork Top Freelancer | Tech Sales & Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadzaidi&show_icons=true&theme=tokyonight" alt="Asad Zaidi GitHub stats" />
+  <img src="https://img.shields.io/badge/Experience-5+_Years-blue" alt="experience" />
+  <img src="https://img.shields.io/badge/Clients-100%2B_successful-green" alt="clients" />
+  <img src="https://img.shields.io/badge/Upwork-Million%24+_Revenue-success" alt="upwork" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Summary
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-link]
-- 🌐 Portfolio: [https://your-portfolio.com] *(optional)*
+🔹 Over **5+ years** managing full-stack digital projects  
+🔹 Locked **multi-million dollar clients** via **Upwork**  
+🔹 Deep understanding of the **freelance ecosystem**, pricing, delivery, and scaling  
+🔹 Strong grasp on modern app stacks and technologies  
 
 ---
 
-> “Technology works best when it brings people together.” – Asad Zaidi
+### 💼 Upwork Experience
+
+✔️ **Top Rated Plus Freelancer** on Upwork  
+✔️ Closed **$1M+ in projects** in mobile/web development, e-commerce, SaaS & consulting  
+✔️ Delivered 100+ projects across **US, UK, UAE & EU markets**  
+✔️ Specialized in client onboarding, architecture planning, and delivery pipeline optimization
+
+📈 *Below is a sample of my Upwork earnings and project types*:
+
+<p align="center">
+  <img src="https://your-image-host.com/upwork-earnings-graph.png" alt="Upwork Earnings Chart" width="600" />
+</p>
+
+---
+
+### 🧠 Tech & Tools I Work With
+
+| Area            | Tools / Stack                                    |
+|-----------------|--------------------------------------------------|
+| **Frontend**    | React, Vue, Angular, React Native                |
+| **Backend**     | Node.js, Express, Firebase, REST APIs            |
+| **CMS / eCom**  | WordPress, WooCommerce, Shopify                  |
+| **Stacks**      | MERN, MEAN, MEVN                                 |
+| **DevOps**      | Git, GitHub, Firebase Hosting, Netlify           |
+| **PM Tools**    | Jira, Trello, Slack, ClickUp, Asana              |
+| **Design Handoff** | Figma, Zeplin, Adobe XD                     |
+
+---
+
+### 📊 GitHub & Freelance Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadzaidi&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-streak-st
